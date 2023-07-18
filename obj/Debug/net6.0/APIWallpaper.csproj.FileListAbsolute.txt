@@ -1,0 +1,15 @@
+D:\OneDrive\APIWallpaper\APIWallpaper\APIWallpaper\bin\Debug\net6.0\APIWallpaper.exe
+D:\OneDrive\APIWallpaper\APIWallpaper\APIWallpaper\bin\Debug\net6.0\APIWallpaper.deps.json
+D:\OneDrive\APIWallpaper\APIWallpaper\APIWallpaper\bin\Debug\net6.0\APIWallpaper.runtimeconfig.json
+D:\OneDrive\APIWallpaper\APIWallpaper\APIWallpaper\bin\Debug\net6.0\APIWallpaper.dll
+D:\OneDrive\APIWallpaper\APIWallpaper\APIWallpaper\bin\Debug\net6.0\APIWallpaper.pdb
+D:\OneDrive\APIWallpaper\APIWallpaper\APIWallpaper\obj\Debug\net6.0\APIWallpaper.csproj.AssemblyReference.cache
+D:\OneDrive\APIWallpaper\APIWallpaper\APIWallpaper\obj\Debug\net6.0\APIWallpaper.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\APIWallpaper\APIWallpaper\APIWallpaper\obj\Debug\net6.0\APIWallpaper.AssemblyInfoInputs.cache
+D:\OneDrive\APIWallpaper\APIWallpaper\APIWallpaper\obj\Debug\net6.0\APIWallpaper.AssemblyInfo.cs
+D:\OneDrive\APIWallpaper\APIWallpaper\APIWallpaper\obj\Debug\net6.0\APIWallpaper.csproj.CoreCompileInputs.cache
+D:\OneDrive\APIWallpaper\APIWallpaper\APIWallpaper\obj\Debug\net6.0\APIWallpaper.dll
+D:\OneDrive\APIWallpaper\APIWallpaper\APIWallpaper\obj\Debug\net6.0\refint\APIWallpaper.dll
+D:\OneDrive\APIWallpaper\APIWallpaper\APIWallpaper\obj\Debug\net6.0\APIWallpaper.pdb
+D:\OneDrive\APIWallpaper\APIWallpaper\APIWallpaper\obj\Debug\net6.0\APIWallpaper.genruntimeconfig.cache
+D:\OneDrive\APIWallpaper\APIWallpaper\APIWallpaper\obj\Debug\net6.0\ref\APIWallpaper.dll
